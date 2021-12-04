@@ -1,0 +1,16 @@
+{
+  "description": "Just testing",
+  "weight": 700,
+  "containers": [
+    {
+      "c_id": "testCustomer1",
+      "u_id": "testUser1",
+      "origin": "Minsk, Belarus"
+    },
+    {
+      "c_id": "testCustomer2",
+      "u_id": "testUser2",
+      "origin": "Minsk, Belarus"
+    }
+  ]
+}
